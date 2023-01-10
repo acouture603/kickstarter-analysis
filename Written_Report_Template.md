@@ -28,6 +28,8 @@ The purpose of the project is to understand how different campaigns fared in rel
 
 ### Challenges and Difficulties Encountered
 
+One challenge encountered was the countifs statements did not tally up correctly.  In teh dataset I checked the counts by filtering the data only to find that I was missing a range in my new table.  Once that was corrected, the totals matched for the overall analysis.  Data entry and attention to detail is imperative.  A simple, one range missing can derail results analysis if you are not careful to backcheck the work. 
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
