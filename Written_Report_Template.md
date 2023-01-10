@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 
-Kickstarter Analysis – Challenge 1
+Kickstarter Analysis â€“ Challenge 1
 
 
 ## Overview of Project
@@ -18,12 +18,12 @@ The purpose of the project is to understand how different campaigns fared in rel
 
 ### Analysis of Outcomes Based on Launch Dates
 
-screenshot
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/120402941/211455783-57efd316-a1d5-48f3-beef-860e98f8e3ab.png)
 
 
 ### Analysis of Outcomes Based on Goals
 
-screenshot
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/120402941/211455847-4fe3675c-9f7c-45c8-8513-af25d1489558.png)
 
 
 ### Challenges and Difficulties Encountered
