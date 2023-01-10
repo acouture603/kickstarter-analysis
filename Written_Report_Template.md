@@ -44,7 +44,7 @@ One challenge encountered was the countifs statements did not tally up correctly
 
 - What are some limitations of this dataset?
 
-    Analyzes all theatre productions subcategories in all countries.  There could be outliers in a month during a given year that are not noticed.
+    The current graph and table analyzes all theatre productions subcategories, in all countries.  There could be outliers in a month during a given year that are not noticed that could scew the overall results.
 
 - What are some other possible tables and/or graphs that we could create?
 
