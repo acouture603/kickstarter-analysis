@@ -31,15 +31,19 @@ The purpose of the project is to understand how different campaigns fared in rel
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
     Conclusion 1:  The best time of the year (month) for successful Theater outcomes is May
     Conclusion 2: There are substantailly more successful plays than there are cancelled or failed throughout the year
 
 - What can you conclude about the Outcomes based on Goals?
+
     Conclusion: Oucomes are more sucessful between Goals range of $0 to $4999, and all outcomes fail (0% successful) between goal amount of 45000 to 49000.
 
 - What are some limitations of this dataset?
+
     Analyzes all theatre productions subcategories in all countries.  There could be outliers in a month during a given year that are not noticed.
 
 - What are some other possible tables and/or graphs that we could create?
+
     Analyzing the data based on region, year or subcategory could provide more useful inforamtion based on goal of usign data.  Box and whisker plot could provide more detailed informtion in these instances.  A bar chart could depict statistics for a subcategory of overall outcomes in a region.
 
