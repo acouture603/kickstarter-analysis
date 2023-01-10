@@ -33,6 +33,7 @@ The purpose of the project is to understand how different campaigns fared in rel
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
     Conclusion 1:  The best time of the year (month) for successful Theater outcomes is May
+    
     Conclusion 2: There are substantailly more successful plays than there are cancelled or failed throughout the year
 
 - What can you conclude about the Outcomes based on Goals?
